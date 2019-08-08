@@ -54,3 +54,10 @@ p {
     font-size: 14px;
     text-align: justify;
 }
+
+.formulaire {
+    background-color: lightcoral;
+    text-align: center;
+    padding: 25px;
+    padding-bottom: 0px;
+}
