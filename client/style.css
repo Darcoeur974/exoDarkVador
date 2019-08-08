@@ -10,21 +10,21 @@ body {
 
 .row {
     display: flex;
-    align-items: center;
+    /*align-items: center;*/
     justify-content: space-around;
     margin-bottom: 25px;
 }
 
 .position {
     display: flex;
-    justify-content: center;
+    /*justify-content: center;*/
 }
 
 .hauteur {
-    height: 400px;
+    height: 300px;
 }
 
-.image-profil {
+.profil {
     height: 400px;
 }
 
@@ -53,6 +53,7 @@ h1 {
 p {
     font-size: 14px;
     text-align: justify;
+    margin: 10px;
 }
 
 .formulaire {
