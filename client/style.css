@@ -1,0 +1,41 @@
+.container {
+    text-align: center;
+    width: 90%;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 25px;
+}
+
+.position {
+    display: flex;
+    justify-content: center;
+}
+
+.hauteur {
+    height: 400px;
+}
+
+.image-profil {
+    height: 500px;
+    margin-left: 10%;
+}
+
+img {
+    height: 100%;
+}
+
+.bio {
+    width: 70%;
+}
+
+.info {
+    width: 85%;
+}
+
+.text {
+    text-align: justify;
+}
