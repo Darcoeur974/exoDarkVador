@@ -5,7 +5,6 @@ body {
 
 .container {
     text-align: center;
-    width: 90%;
 }
 
 .row {
@@ -46,7 +45,7 @@ img {
 }
 
 h1 {
-    font-size: 100px;
+    font-size: 80px;
     margin-bottom: 50px;
 }
 
@@ -61,4 +60,16 @@ p {
     text-align: center;
     padding: 25px;
     padding-bottom: 0px;
+}
+
+.figure-caption {
+    color: black;
+}
+
+.center {
+    justify-content: center;
+}
+
+.bas {
+    align-items: center;
 }
