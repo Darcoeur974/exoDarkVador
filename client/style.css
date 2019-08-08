@@ -1,3 +1,8 @@
+body {
+    background: rgb(255, 89, 89);
+    background: linear-gradient(90deg, rgba(255, 89, 89, 1) 0%, rgba(158, 158, 158, 1) 100%);
+}
+
 .container {
     text-align: center;
     width: 90%;
@@ -20,12 +25,12 @@
 }
 
 .image-profil {
-    height: 500px;
-    margin-left: 10%;
+    height: 400px;
 }
 
 img {
     height: 100%;
+    border-radius: 50%;
 }
 
 .bio {
@@ -38,4 +43,13 @@ img {
 
 .text {
     text-align: justify;
+}
+
+h1 {
+    font-size: 100px;
+    margin-bottom: 50px;
+}
+
+p {
+    font-size: 14px;
 }
